@@ -15,3 +15,6 @@ Adquirir conocimientos básicos sobre seguridad informática, amenazas comunes y
 Danilo Soriano
 
 Estudiante de Ingeniería de Sistemas – UTP
+
+## Estado del proyecto
+En progreso 🚧 – Actualizado conforme avanzo en mi formación en ciberseguridad.
